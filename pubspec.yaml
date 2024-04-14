@@ -1,6 +1,6 @@
 name: gallary_sample
 description: An new Dart Frog application
-version: 1.0.0+1
+version: 0.0.0+1
 publish_to: none
 
 environment:
@@ -8,6 +8,7 @@ environment:
 
 dependencies:
   dart_frog: ^1.0.0
+  pubspec_yaml: ^3.1.0
 
 dev_dependencies:
   mocktail: ^1.0.0
